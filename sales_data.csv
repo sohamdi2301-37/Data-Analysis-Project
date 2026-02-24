@@ -1,0 +1,8 @@
+invoice_id,customer_id,product_category,quantity,price,invoice_date
+1001,C001,Electronics,2,15000,2024-01-10
+1002,C002,Clothing,3,2000,2024-01-12
+1003,C001,Electronics,1,10000,2024-02-05
+1004,C003,Grocery,5,500,2024-02-15
+1005,C002,Electronics,1,20000,2024-03-01
+1006,C004,Grocery,10,300,2024-03-10
+1007,C001,Clothing,2,2500,2024-04-01
