@@ -1,22 +1,22 @@
-# Week 6 – Python Data Analysis Project
+# Week 7 – Advanced Data Analysis
 
 ## Overview
 This project demonstrates:
-- Python fundamentals
-- Data loading & cleaning using Pandas
-- Exploratory Data Analysis (EDA)
-- Data visualization using Matplotlib
+- Advanced Data Cleaning
+- Revenue Analysis
+- Customer Frequency Analysis
+- Monthly Trend Visualization
 
 ## Files Included
-- basic_python.py
-- data_loading_cleaning.py
-- eda_analysis.py
-- visualization.py
-- sales_data.csv
+- sales_data_extended.csv
+- advanced_cleaning.py
+- revenue_analysis.py
+- monthly_trend_visualization.py
+- customer_frequency_analysis.py
 
 ## Skills Demonstrated
-- Python Programming
-- Data Cleaning
-- GroupBy Operations
+- Pandas GroupBy
+- Data Filtering
+- Revenue Insights
 - Time Series Analysis
-- Data Visualization
+- Business Analytics
